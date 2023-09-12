@@ -1,6 +1,6 @@
 ## Conda Packages Creation
 
-The repository `conda_package_template` contains:
+The repository `conda_package_mockup` can be used as a template for package construction. It contains:
 - `src`:
   - put your scripts here
 - `conda_recipe`
