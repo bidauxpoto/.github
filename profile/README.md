@@ -18,6 +18,8 @@ anaconda-client
 ### Package build and upload
 Move to the `conda_recipe` directory and run:
 ```
+make package/name
+make build
 make upload
 ```
 
