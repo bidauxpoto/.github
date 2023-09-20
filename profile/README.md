@@ -22,6 +22,8 @@ Move to the `conda_recipe` directory and run:
 ```
 make build
 make upload
+or
+make upload_noarch
 ```
 
 The packages will be included as part of the [Molineris Lab Organization](https://anaconda.org/molinerislab) on Anaconda.
