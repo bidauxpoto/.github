@@ -19,6 +19,16 @@ anaconda-client
 
 ### Package build and upload
 Move to the `conda_recipe` directory and run:
+
+Activate the proper environment
+
+```
+conda create -n condaBuild conda-build
+conda activate condaBuild
+```
+
+Build the package
+
 ```
 make build
 make upload
