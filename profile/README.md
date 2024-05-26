@@ -1,5 +1,7 @@
 # Bioinformatic and Data Analysis UniX Power Tools
 
+Mamy BiDaUxPoTo tools can be found on the [molinerislab conda channel](https://anaconda.org/molinerislab)
+
 ## Conda Packages Creation
 
 ### Template Repo
