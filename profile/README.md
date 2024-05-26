@@ -4,7 +4,7 @@
 
 ### Template Repo
 
-The repository `conda_package_mockup` can be used as a template for package construction. It contains:
+The repository [conda_build_mockup](https://github.com/bidauxpoto/conda_build_mockup) can be used as a template for package construction. It contains:
 - `src`:
   - put your scripts here
 - `conda_recipe`
