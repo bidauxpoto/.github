@@ -1,6 +1,6 @@
 # Bioinformatic and Data Analysis UniX Power Tools
 
-Mamy BiDaUxPoTo tools can be found on the [molinerislab conda channel](https://anaconda.org/molinerislab)
+Many BiDaUxPoTo tools can be found on the [molinerislab conda channel](https://anaconda.org/molinerislab)
 
 ## Conda Packages Creation
 
@@ -39,3 +39,5 @@ make upload_noarch
 ```
 
 The packages will be included as part of the [Molineris Lab Organization](https://anaconda.org/molinerislab) on Anaconda.
+
+To be able to uplad the package you need to be [added as a developer](https://anaconda.org/molinerislab/groups) of the organization by an owner. [Open an issue](https://github.com/bidauxpoto/conda_build_mockup/issues) to ask for access.
