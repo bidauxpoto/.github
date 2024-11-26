@@ -22,6 +22,13 @@ anaconda-client
 ### Package build and upload
 Move to the `conda_recipe` directory and follow this steps:
 
+If the build correspond to a new version of an existing package, update the version in `meta.yaml`
+```
+{% set name = "filter_1col" %}
+{% set version = "<NEW VERSION>" %}
+....
+```
+
 Create and activate `condaBuild` environment
 
 ```
